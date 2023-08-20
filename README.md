@@ -10,7 +10,7 @@ If you are having trubule with you keybord . like Auto typing or othee problem.
 i would recomend to disable your laptops keybord.
 #### This program is very easy to use.
 
-![alt text](https://github.com/De-Shoha/KeyOff/blob/main/keyoff.png?raw=true)
+![alt text](https://github.com/deshoha/Keyoff/blob/main/keyoff.png?raw=true)
 
 
 ## Usage
@@ -30,12 +30,16 @@ To Enable Your Keybord.
 sudo apt install git -y
 ```
 For Debain .
+For Arch 
+```
+sudo pacman -S git
+```
 For Other distro 
 Just Download Git
 
 #### Clone Repository
 ```
-git clone https://github.com/De-Shoha/KeyOff.git
+git clone https://github.com/deshoha/KeyOff.git
 ```
 
 #### Go to KeyOff Folder
@@ -58,5 +62,5 @@ bash install.sh
 ```
 
 
-### Created By De-Shoha
+### Created By deshoha
 #### Email:- deshoha@gmail.com
