@@ -2,8 +2,12 @@
 # KeyOff
 ### [*] this can enable Or Disable your laptop keybord...
 disable Your keybord in linux ..
-kali linux(Tested)
-
+##Tested
+```
+kali linux
+Zorin Os
+Arch
+```
 Having Problem With your keybord .. or do you want to disable your laptops keybord . look no further..
 this program can help you..
 If you are having trubule with you keybord . like Auto typing or othee problem.
@@ -39,9 +43,11 @@ Just Download Git
 
 #### Clone Repository
 ```
+git clone https://github.com/rhshourav/KeyOff.git
+```
+```
 git clone https://github.com/deshoha/KeyOff.git
 ```
-
 #### Go to KeyOff Folder
 ```
 cd KeyOff/
