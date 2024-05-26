@@ -68,5 +68,5 @@ bash install.sh
 ```
 
 
-### Created By deshoha
-#### Email:- deshoha@gmail.com
+### Created By rhshourav
+#### Email:- rhshourav02@gmail.com
