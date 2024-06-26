@@ -1,16 +1,24 @@
+<div align="center">
+	<img src="https://github.com/rhshourav/Keyoff/blob/main/img/logo150x150.png">
+</div>
+<h1 align="center">KeyOff</h1>
 
-# KeyOff
+
 ### [*] this can enable Or Disable your laptop keybord...
 disable Your keybord in linux ..
-kali linux(Tested)
-
+## Tested
+```
+kali linux
+Zorin Os
+Arch
+```
 Having Problem With your keybord .. or do you want to disable your laptops keybord . look no further..
 this program can help you..
 If you are having trubule with you keybord . like Auto typing or othee problem.
 i would recomend to disable your laptops keybord.
 #### This program is very easy to use.
 
-![alt text](https://github.com/deshoha/Keyoff/blob/main/keyoff.png?raw=true)
+![alt text](https://github.com/rhshourav/Keyoff/blob/main/img/keyoff.png)
 
 
 ## Usage
@@ -39,9 +47,11 @@ Just Download Git
 
 #### Clone Repository
 ```
+git clone https://github.com/rhshourav/KeyOff.git
+```
+```
 git clone https://github.com/deshoha/KeyOff.git
 ```
-
 #### Go to KeyOff Folder
 ```
 cd KeyOff/
@@ -62,5 +72,5 @@ bash install.sh
 ```
 
 
-### Created By deshoha
-#### Email:- deshoha@gmail.com
+### Created By rhshourav
+#### Email:- rhshourav02@gmail.com
